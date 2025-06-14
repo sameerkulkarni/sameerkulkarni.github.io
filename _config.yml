@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "sameer-profile.png"
   name             : "Sameer Kulkarni"
-  pronouns         : # example: "she/her"  
   bio              : "Optimization Enthusiast, Engineer at Google, Ph.D. in Computer Science"
+  pronouns         : # example: "he/him"
   location         : "Pasadena, CA"
   employer         : "Google Deep Mind"
   uri              : # URL
@@ -84,6 +84,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  publications:
+    title: 'Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
