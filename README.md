@@ -94,3 +94,50 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+## Maintenance Mode
+
+This website includes a script to enable or disable a temporary maintenance mode. This is useful when you need to take the site offline for updates or other maintenance tasks.
+
+### How to Use
+
+The script `toggle_maintenance.sh` is located in the root directory of the repository.
+
+**To enable maintenance mode:**
+
+Run the following command from the root of your repository:
+
+```bash
+./toggle_maintenance.sh on
+```
+
+This will:
+1. Back up your current live site (the `_site` directory) to `_site_backup`.
+2. Replace the content of `_site` with a maintenance page (`maintenance.html`).
+
+**Important:** Ensure your web server is configured to serve files from the `_site` directory. When maintenance mode is on, it will serve the `maintenance.html` file as the `index.html`.
+
+**To disable maintenance mode:**
+
+Run the following command from the root of your repository:
+
+```bash
+./toggle_maintenance.sh off
+```
+
+This will:
+1. Remove the maintenance page from `_site`.
+2. Restore your original site content from `_site_backup` back to the `_site` directory.
+
+**Prerequisites:**
+
+*   Make sure `maintenance.html` exists in the root directory.
+*   Make sure the `_site` directory (your built Jekyll site) exists before trying to enable maintenance mode.
+*   The script needs to be executable. If you freshly cloned the repository, you might need to run `chmod +x toggle_maintenance.sh`.
+
+**Error Handling:**
+
+The script includes basic error handling. For example, it will prevent you from:
+*   Enabling maintenance mode if `_site` or `maintenance.html` doesn't exist.
+*   Enabling maintenance mode if a `_site_backup` directory already exists (to avoid accidental overwrites).
+*   Disabling maintenance mode if `_site_backup` doesn't exist.
