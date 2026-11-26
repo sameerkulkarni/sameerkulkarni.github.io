@@ -9,7 +9,9 @@ redirect_from:
 
 I back and build profitable, bootstrapped businesses for the AI era.
 
-**Investing and operating.** Through my family office, and an accelerator I'm launching, I partner with bootstrapped, profitable B2B companies in the US and India that are ready for their next stage. I bring two things: capital, and hands-on operating help to put technology to work in the business. I'm based in Pune, India.
+**Investing.** I'm a General Partner at Old Money Capital, where I help with underwriting and push for slow, deliberate decisions, each chosen for how it strengthens the long-term position of our investors' assets.
+
+**Building.** Through my family office, and an accelerator I'm launching, I partner with bootstrapped, profitable B2B companies in the US and India that are ready for their next stage. I bring two things: capital, and hands-on operating help to put technology to work in the business. I'm based in Pune, India.
 
 **Proof from my own business.** I run [Staypoco](STAYPOCO_URL), a short-term rental business in the Poconos and Daytona Beach. We used technology to close revenue leaks and move to data-driven dynamic pricing, which gives owner-operators safer, more sustainable returns. Staypoco also funds what I do, so I invest as an operator: with patient capital and nothing to prove to outside investors.
 
