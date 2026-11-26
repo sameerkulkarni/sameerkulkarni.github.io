@@ -9,7 +9,7 @@ redirect_from:
 
 I back and build profitable, bootstrapped businesses for the AI era.
 
-**Investing.** I'm a General Partner at Old Money Capital, where I help with underwriting and push for slow, deliberate decisions, each chosen for how it strengthens the long-term position of our investors' assets.
+**Investing.** I'm a General Partner at Old Money Capital, where I lead underwriting and push for slow, deliberate decisions, each chosen for how it strengthens the long-term position of our investors' assets.
 
 **Building.** Through my family office, and an accelerator I'm launching, I partner with bootstrapped, profitable B2B companies in the US and India that are ready for their next stage. I bring two things: capital, and hands-on operating help to put technology to work in the business. I'm based in Pune, India.
 
