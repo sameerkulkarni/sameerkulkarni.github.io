@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Sameer Kulkarni"
 title_separator          : "-"
 name                     : &name "Sameer Kulkarni"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Sameer Kulkarni: STR operator and founder of Staypoco, family-office investor, and compiler/ML researcher (PhD, ex-Google DeepMind)."
+url                      : https://sameerkulkarni.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sameerkulkarni/sameerkulkarni.github.io"
 
@@ -25,9 +25,9 @@ author:
   avatar           : "sameer-profile.png"
   name             : "Sameer Kulkarni"
   pronouns         : # example: "he/him"
-  bio              : "Optimization Enthusiast, Engineer@Google Deep Mind, Ph.D. in Computer Science by Education"
-  location         : "Pasadena, CA"
-  employer         : "Google Deep Mind"
+  bio              : "Founder of Staypoco · Family-office investor · Ph.D. (compilers + ML), ex-Google DeepMind"
+  location         : "Pune, India"
+  employer         : "Staypoco"
   uri              : # URL
   email            : "sameer@thekulkarni.com" 
 
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0000-2610-3540"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sameerkulkarni"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
