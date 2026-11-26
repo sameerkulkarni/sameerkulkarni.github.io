@@ -7,22 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Sameer Kulkarni. I'm an operator and investor with a background in compilers and machine learning.
+I back and build profitable, bootstrapped businesses for the AI era.
 
-**Short-term rentals.** I founded Staypoco, my short-term rental brand, which has properties in the Pocono Mountains, PA and in Daytona Beach, FL. I run the portfolio like a systems problem: dynamic pricing, market data pipelines and a portfolio dashboard I designed, plus documented operating procedures that keep each property running reliably. I'm now expanding into third-party property management in the Poconos. If you own a home there and want it professionally managed, [get in touch](mailto:sameer@thekulkarni.com).
+**Investing and operating.** Through my family office, and an accelerator I'm launching, I partner with bootstrapped, profitable B2B companies in the US and India that are ready for their next stage. I bring two things: capital, and hands-on operating help to put technology to work in the business. I'm based in Pune, India.
 
-**Investing.** I started a family office, and I recently moved to Pune, India to invest in brick-and-mortar businesses that stand to benefit from the AI transition.
+**Proof from my own business.** I run [Staypoco](STAYPOCO_URL), a short-term rental business in the Poconos and Daytona Beach. We used technology to close revenue leaks and move to data-driven dynamic pricing, which gives owner-operators safer, more sustainable returns. Staypoco also funds what I do, so I invest as an operator: with patient capital and nothing to prove to outside investors.
 
-**Technology.** I have a Ph.D. in computer science, where my research applied machine learning to compiler optimization and transactional memory. Most recently I worked on machine learning systems at Google DeepMind. My [publications](/publications/) are listed on this site.
+**My edge.** I have a Ph.D. in computer science, where I applied machine learning to compilers, and I worked on ML systems at Google DeepMind. That helps me see where AI creates real leverage in a business, and where it's just hype.
 
-This site is a home for my writing and projects, from real estate and investing to AI and the occasional personal experiment.
-
-Feel free to [reach out](mailto:sameer@thekulkarni.com).
-
-Areas of Interest
+How can I help?
 =====
 
-- Short-term rental operations, pricing and property management
-- Investing in businesses positioned for the AI transition
-- Machine learning, compilers and systems
-- Running, 3D printing and parametric design (OpenSCAD)
+- **Keep up with what I'm working on.** Read my [blog posts](/year-archive/) or subscribe to the [feed](/feed.xml).
+- **Work with me on a project.** Have something you'd like me involved in? [Tell me about it](mailto:sameer@thekulkarni.com?subject=Project%3A%20).
+- **Funding for your business.** Running a profitable, bootstrapped B2B company and looking for capital and operating help? [Pitch me](mailto:sameer@thekulkarni.com?subject=Funding%3A%20).
+- **Co-invest or partner.** Investor, operator, or someone with deal flow? [Let's compare notes](mailto:sameer@thekulkarni.com?subject=Partner%3A%20).
+
+Anything else? Just [say hello](mailto:sameer@thekulkarni.com).
