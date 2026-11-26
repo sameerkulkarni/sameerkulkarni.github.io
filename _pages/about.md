@@ -15,8 +15,6 @@ Hi, I'm Sameer Kulkarni. I'm an operator and investor with a background in compi
 
 **Technology.** I have a Ph.D. in computer science, where my research applied machine learning to compiler optimization and transactional memory. Most recently I worked on machine learning systems at Google DeepMind. My [publications](/publications/) are listed on this site.
 
-**Giving back.** I do pro-bono work for my college. Mentoring and STEM education have long been important to me.
-
 This site is a home for my writing and projects, from real estate and investing to AI and the occasional personal experiment.
 
 Feel free to [reach out](mailto:sameer@thekulkarni.com).
@@ -27,5 +25,4 @@ Areas of Interest
 - Short-term rental operations, pricing and property management
 - Investing in businesses positioned for the AI transition
 - Machine learning, compilers and systems
-- STEM education and mentoring
 - Running, 3D printing and parametric design (OpenSCAD)
